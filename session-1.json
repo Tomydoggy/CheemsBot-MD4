@@ -1,4 +1,4 @@
-{
+
   "creds": {
     "noiseKey": {
       "private": {
@@ -442,22 +442,3 @@
             }
           }
         }
-      },
-      "regular": {
-        "version": 1,
-        "hash": {
-          "type": "Buffer",
-          "data": "AMum3EWBljzm0mDnD6znOKx3YdFIFKcm0uTEFDQMB/213cRknp+jf1Ihlfo7bOzkZQwVJvOwUn5J9Q09CXBisnZqNFg74oNMWKdBlNR1h+ALdh2wNht+TcLtZpF35bV5LC5YadSwo6vGyiC4t+vO211lOaYp054nKKmzNwtnGXE="
-        },
-        "indexValueMap": {
-          "5NEf3jSPHpM/2GrjPB+Od3wlDd6u4feaMRJV+gslisI=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "jZBB52m8XH72UdrNTvtVTqRww7xsfHuZYuDbGyODcRk="
-            }
-          }
-        }
-      }
-    }
-  }
-}
